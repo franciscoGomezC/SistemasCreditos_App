@@ -1,33 +1,12 @@
-# Historial de Acreditación 📚
-
-Aplicación Android desarrollada con **Jetpack Compose** que permite consultar el historial de acreditaciones académicas de los usuarios. Integra una API para obtener datos en tiempo real y presenta una interfaz moderna, adaptable y eficiente.
-
+Francisco Javier Gómez Calderón
 ---
 
-## 🚀 Características
+## Partes con Programación Funcional
+Las siguientes carpetas tienen un viewmodel con el cuál ya cuentan con programación funcional.
 
-- Consulta de historial académico por usuario
-- Interfaz responsiva con Jetpack Compose
-- Integración con API REST usando Retrofit
-- Navegación fluida y diseño intuitivo
-- Optimización para dispositivos Android modernos
+1. dataActividadesAlumnosApi
+2. dataActividadesApi
+3. dataDepartamentoApi
+4. dataLoginApi
 
----
-
-## 🛠️ Tecnologías utilizadas
-
-- **Kotlin**
-- **Jetpack Compose**
-- **Retrofit**
-- **Android ViewModel & LiveData**
-- **Gradle Kotlin DSL**
-- **Git & GitHub**
-
----
-
-## 📦 Instalación
-
-1. Clona el repositorio:
-
-```bash
-git clone https://github.com/franciscoGomezC/HistorialAcreditacionPrueba.git
+En la carpeta UI, en ScreenDepartamento se muestran las pantallas y cómo se aplicaron. 
